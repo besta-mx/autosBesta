@@ -1,35 +1,35 @@
 {
     "autos": [
     {
-            "id": "1",
+            "id": 1,
             "modelo": "AVEO",
             "marca": "CHEVROLET",
             "imagen": "https://bestaweb.netlify.app/assets/aveo2.png",
             "montoSemanal": "$3,200 / Semanal"
         },
         {
-            "id": "2",
+            "id": 2,
             "modelo": "VDRIVE",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/vdrive.png",
             "montoSemanal": "$3,200 / Semanal"
         },
         {
-            "id": "3",
+            "id": 3,
             "modelo": "MARCH",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/march2.png",
             "montoSemanal": "$3,200 / Semanal"
         },
         {
-            "id": "4",
+            "id": 4,
             "modelo": "ATTITUD",
             "marca": "DODGE",
             "imagen": "https://bestaweb.netlify.app/assets/attitude.png",
             "montoSemanal": "$3,250 / Semanal"
         },
         {
-            "id": "5",
+            "id": 5,
             "modelo": "KWID",
             "marca": "RENAULT",
             "imagen": "https://bestaweb.netlify.app/assets/kwid.png",
