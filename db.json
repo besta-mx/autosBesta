@@ -5,10 +5,6 @@
             "modelo": "AVEO",
             "marca": "CHEVROLET",
             "imagen": "https://bestaweb.netlify.app/assets/AVEO-OFI2.png",
-            "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
-            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
-            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
-            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,200"
         },
         {
@@ -16,10 +12,6 @@
             "modelo": "VDRIVE",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/VDRIVE-OFI3.png",
-            "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
-            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
-            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
-            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,200"
         },
         {
@@ -27,10 +19,6 @@
             "modelo": "MARCH",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/MARCH-OFI2.png",
-            "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
-            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
-            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
-            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,200"
         },
         {
@@ -38,10 +26,6 @@
             "modelo": "ATTITUD",
             "marca": "DODGE",
             "imagen": "https://bestaweb.netlify.app/assets/ATTITUD-OFI2.png",
-            "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
-            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
-            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
-            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,250"
         },
         {
@@ -49,10 +33,6 @@
             "modelo": "KWID",
             "marca": "RENAULT",
             "imagen": "https://bestaweb.netlify.app/assets/KWID-OFI2.png",
-            "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
-            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
-            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
-            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,250"
         }
     ]
