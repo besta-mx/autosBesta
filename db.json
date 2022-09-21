@@ -8,6 +8,7 @@
             "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
             "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
             "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
+            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,200"
         },
         {
@@ -18,6 +19,7 @@
             "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
             "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
             "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
+            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,200"
         },
         {
@@ -28,6 +30,7 @@
             "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
             "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
             "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
+            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,200"
         },
         {
@@ -38,6 +41,7 @@
             "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
             "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
             "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
+            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,250"
         },
         {
@@ -48,6 +52,7 @@
             "carrito": "https://bestaweb.netlify.app/assets/carbesta.png",
             "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
             "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
+            "mesesImg": "https://bestaweb.netlify.app/assets/icotiempo.png",
             "montoSemanal": "$3,250"
         }
     ]
