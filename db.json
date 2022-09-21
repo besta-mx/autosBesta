@@ -5,6 +5,9 @@
             "modelo": "AVEO",
             "marca": "CHEVROLET",
             "imagen": "https://bestaweb.netlify.app/assets/aveo2.png",
+            "carrito": "https://bestaweb.netlify.app/assets/car.png",
+            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
+            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
             "montoSemanal": "$3,200 / Semanal"
         },
         {
@@ -12,6 +15,9 @@
             "modelo": "VDRIVE",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/vdrive.png",
+            "carrito": "https://bestaweb.netlify.app/assets/car.png",
+            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
+            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
             "montoSemanal": "$3,200 / Semanal"
         },
         {
@@ -19,6 +25,9 @@
             "modelo": "MARCH",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/march2.png",
+            "carrito": "https://bestaweb.netlify.app/assets/car.png",
+            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
+            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
             "montoSemanal": "$3,200 / Semanal"
         },
         {
@@ -26,6 +35,9 @@
             "modelo": "ATTITUD",
             "marca": "DODGE",
             "imagen": "https://bestaweb.netlify.app/assets/attitude.png",
+            "carrito": "https://bestaweb.netlify.app/assets/car.png",
+            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
+            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
             "montoSemanal": "$3,250 / Semanal"
         },
         {
@@ -33,6 +45,9 @@
             "modelo": "KWID",
             "marca": "RENAULT",
             "imagen": "https://bestaweb.netlify.app/assets/kwid.png",
+            "carrito": "https://bestaweb.netlify.app/assets/car.png",
+            "calendario": "https://bestaweb.netlify.app/assets/yearCalendar.png",
+            "galardon": "https://bestaweb.netlify.app/assets/nuevoicono.png",
             "montoSemanal": "$3,250 / Semanal"
         }
     ]
