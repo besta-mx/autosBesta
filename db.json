@@ -5,14 +5,14 @@
             "modelo": "AVEO",
             "marca": "CHEVROLET",
             "imagen": "https://bestaweb.netlify.app/assets/AVEO-OFI2.png",
-            "montoSemanal": "$3,400"
+            "montoSemanal": "$3,500"
         },
         {
             "id": 2,
             "modelo": "VDRIVE",
             "marca": "NISSAN",
             "imagen": "https://bestaweb.netlify.app/assets/VDRIVE-OFI3.png",
-            "montoSemanal": "$3,400"
+            "montoSemanal": "$3,550"
         },
         {
             "id": 3,
@@ -26,7 +26,7 @@
             "modelo": "ATTITUD",
             "marca": "DODGE",
             "imagen": "https://bestaweb.netlify.app/assets/ATTITUD-OFI2.png",
-            "montoSemanal": "$3,800"
+            "montoSemanal": "$3,550"
         },
         {
             "id": 5,
